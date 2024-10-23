@@ -5,13 +5,13 @@
 📜 Overview<br><br>
 Welcome to Mario Game, a 2D platformer built using LWJGL and OpenGL for high-performance graphics rendering and Box2D for realistic physics. Control Mario as he navigates through levels, avoiding obstacles, defeating enemies, and collecting coins!
 
-🚀 Features<br><br>
-🎮 Classic Mario-style platformer gameplay<br><br>
-🌍 Multiple levels with different challenges<br><br>
-🏃‍♂️ Realistic physics powered by Box2D<br><br>
-🎨 High-quality graphics rendered using OpenGL<br><br>
-💰 Collectible coins, power-ups, and hidden secrets<br><br>
-🎵 Background music and sound effects<br><br>
+🚀 Features<br>
+🎮 Classic Mario-style platformer gameplay<br>
+🌍 Multiple levels with different challenges<br>
+🏃‍♂️ Realistic physics powered by Box2D<br
+🎨 High-quality graphics rendered using OpenGL<br>
+💰 Collectible coins, power-ups, and hidden secrets<br>
+🎵 Background music and sound effects<br>
 🏆 Score and lives system for a competitive edge<br><br><br>
 🛠️ Technologies Used<br><br>
 LWJGL (Lightweight Java Game Library): For handling OpenGL, OpenAL, and input.<br>
